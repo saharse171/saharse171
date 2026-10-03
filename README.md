@@ -39,6 +39,27 @@ It analyzes financial data and provides:
 
 🎓 **CS50P Certificate:** [View Certificate](https://cs50.harvard.edu/certificates/ec54fd6a-6797-4144-ac9e-4e807eab974b)
 
+
+Financial Fraud Detection Database
+
+A relational financial fraud monitoring database developed as my CS50 SQL Final Project.
+
+The project demonstrates practical SQL and database skills through:
+
+Relational database design
+SQL queries and data analysis
+Primary and foreign keys
+Database constraints
+Indexing and optimization
+SQL views
+Financial transaction monitoring
+Potential fraud alert analysis
+Entity relationship modeling
+
+🔗 Project: Financial Fraud Detection SQL
+
+🎓 CS50 SQL Certificate: View Certificate
+
 ---
 
 ## 🚀 Current Learning Journey
