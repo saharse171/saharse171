@@ -39,8 +39,8 @@ It analyzes financial data and provides:
 
 🎓 **CS50P Certificate:** [View Certificate](https://cs50.harvard.edu/certificates/ec54fd6a-6797-4144-ac9e-4e807eab974b)
 
-
-Financial Fraud Detection Database
+---------------------------------------------------------------
+### **Financial Fraud Detection Database**
 
 A relational financial fraud monitoring database developed as my CS50 SQL Final Project.
 
